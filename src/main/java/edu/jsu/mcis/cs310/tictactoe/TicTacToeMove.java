@@ -5,7 +5,7 @@ package edu.jsu.mcis.cs310.tictactoe;
 * Tic-Tac-Toe game.
 *
 * @author  Bailey Fox
-* @version 1.0
+* @version 2.0
 */
 public class TicTacToeMove {
     
