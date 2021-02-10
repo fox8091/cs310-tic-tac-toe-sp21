@@ -3,7 +3,7 @@ package edu.jsu.mcis.cs310.tictactoe;
 /**
 * TicTacToeState represents the state of the current game of Tic-Tac-Toe.
 *
-* @author  Your Name
+* @author  Bailey Fox
 * @version 1.0
 */
 public enum TicTacToeState {
